@@ -26,7 +26,7 @@ This is front-end example. Topico gets some parameters from html element's prope
 - tpc-jsonp-methodname : Server-side scripts 'topico_server.php' generates JSONP-formatted data. Just set 'loadTweets'. If you customize server-side scripts and change method name. Set it to this property.
 - tpc-hashtag : Twitter hashtag name. If unset this property, hashtags on the timeline are visibled.
 - tpc-polling-span : (optional) Polling span time by millisecond. Default value is 15000.
-- tpc-animate-duration : (optional) Animation time by millisecond. Default value is 15000.
+- tpc-animate-duration : (optional) Animation time by refresh-rate frame count. Default value is 60.
 - tpc-position : (optional) Position of timeline. You can use 'left' and 'right'. Default value is 'left'.
 
 The server-side script 'topico_server.php' generates twitter hashtag coments. Put it on HTTP public directory which can work PHP, and give executable permission(like `chmod 757 ./topico_server.php`). Set your twitter application key to line 10-13.
