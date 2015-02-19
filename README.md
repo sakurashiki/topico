@@ -14,7 +14,7 @@ This is front-end example. Topico gets some parameters from html element's prope
         tpc-hashtag="html5j"
         >
     <head>
-      <title>サンプル</title>
+      <title>Sample</title>
       <script src="js/topico.js"></script>
     </head>
     <body>
