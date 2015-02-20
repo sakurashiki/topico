@@ -1,3 +1,9 @@
+日本語
+　http://sakura-q.hatenablog.com/entry/2015/02/20/135931
+
+Engilish
+　↓
+
 # Topico
 Topico enables you easier to show twitter hashtag comments on screen(browser). You can get feedback of audience, when you do presentation or pannel discussion. Topico tries to get new comments for every 15 seconds. When topico recognizes a new comment, inject it to timeline automatically.
 
