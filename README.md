@@ -5,7 +5,7 @@ Engilish
 　↓
 
 # Topico
-Topico enables you easier to show twitter hashtag comments on screen(browser). You can get feedback of audience, when you do presentation or pannel discussion. Topico tries to get new comments for every 15 seconds. When topico recognizes a new comment, inject it to timeline automatically.
+Topico enables you easier to show twitter hashtag comments on screen(browser). You can get many feedback of audiences, when you do presentation or pannel discussion. Topico tries to get new comments for every 15 seconds. When topico recognizes a new comment, insert it to timeline automatically.
 
 ![use image](https://qkwkw.github.io/readme_images/topico.jpg)
 
